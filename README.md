@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--
+## Hi there 
 
 - 🔭 I’m currently working on translational data
 - 🌱 I’m currently learning scRNA processing
